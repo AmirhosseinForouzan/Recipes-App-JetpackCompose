@@ -5,6 +5,7 @@ RecipesApp is an Android application that allows users to view various recipes a
 ## Adding a New Recipe
 
 Open the RecipeData.kt file located in the data package.
+
 Add the new recipe to the baseIngredientsList and recipeInstructionsList.
 
 ## Screenshots
